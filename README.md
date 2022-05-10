@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Abhinav Saxena
 - 👀 I’m interested in Developing Mobile Applications in Languages like React-Native, Kotlin, Swift and developing Web Sites using MERN Stack.
-- 🌱 I’m currently learning Dart, Python.
-- 💞️ I’m looking to collaborate on ERP based softwares
+- 🌱 I’m currently learning Dart, Python, Flutter.
+- 💞️ I’m looking to collaborate on ERP based softwares, using ReactJS, NodeJS, Mongo and Express.
 - 📫 How to reach me : abhsax130778@gmail.com
 
 <!---
